@@ -1,3 +1,4 @@
-# UUID         	Group Name
+# UUID             	Group Name
 #
-user:amalx-ssrc	user/amalx-ssrc
+user:amalx-ssrc    	user/amalx-ssrc
+user:ssrc-build-bot	user/ssrc-build-bot
